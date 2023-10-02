@@ -1,6 +1,6 @@
 (function () {
     // create dialog elements
-    const dialog = document.createElement("ui5-dialog");
+    const dialog = document.createElement("ui5-dialog"); 
     const content = document.createElement("div");
     const footer = document.createElement("footer");
     const footerBtn = document.createElement("ui5-button");
